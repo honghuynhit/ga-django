@@ -1,6 +1,4 @@
 {
-  "homepage": "http://honghuynhit.github.io/test-app",
-  "name": "test-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
